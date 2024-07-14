@@ -1,4 +1,4 @@
-# project_2
+# NBA-APP-Player-Card-with-Custom-UI
 
 A new Flutter project.
 
