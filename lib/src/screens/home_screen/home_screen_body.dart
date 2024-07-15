@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:project_2/src/utils/colours.dart';
 
-import '../../utils/constants.dart';
 import 'home_screen_back.dart';
+import '../../utils/colours.dart';
+import '../../utils/constants.dart';
 import '../../widgets/player_badge.dart';
 import '../../widgets/player_stats.dart';
 import '../../widgets/player_card.dart';
